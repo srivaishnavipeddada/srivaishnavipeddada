@@ -47,4 +47,4 @@ Aspiring Python and Django Developer with hands-on experience in building web ap
 ## 📫 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/sri-vaishnavi-p/
-- Portfolio: srivaishnavi-peddada.netlify.app
+- Portfolio: https://srivaishnavi-peddada.netlify.app/
